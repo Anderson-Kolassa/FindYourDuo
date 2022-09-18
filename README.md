@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar o projeto](https://https://anderson-kolassa.github.io/FindYourDuo/)
+[Clique aqui para acessar o projeto](https://anderson-kolassa.github.io/FindYourDuo/)
 
 ## Tecnologias
 
